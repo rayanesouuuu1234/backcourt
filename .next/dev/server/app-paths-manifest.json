@@ -1,0 +1,5 @@
+{
+  "/load/page": "app/load/page.js",
+  "/optimizer/page": "app/optimizer/page.js",
+  "/page": "app/page.js"
+}

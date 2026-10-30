@@ -1,0 +1,10 @@
+{
+  "app": {
+    "[project]/app/load/page": [],
+    "[project]/app/optimizer/page": [],
+    "[project]/app/page": []
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
